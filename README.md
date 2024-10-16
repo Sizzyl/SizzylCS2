@@ -2,7 +2,7 @@
 CS2 commands/settings I use. Paste in in-game console to apply, might not work well on all systems.
 
 # All-in-one command
-```r_show_build_info 0;viewmodel_presetpos 0; viewmodel_offset_x 0.2; viewmodel_offset_y 2; viewmodel_offset_z -1; viewmodel_fov 68; cl_hud_color 0; cl_crosshairusealpha 1; cl_crosshaircolor 5; cl_crosshaircolor_b 255; cl_crosshaircolor_g 230; cl_crosshaircolor_r 50; cl_crosshairgap -1.05; cl_crosshairgap_useweaponvalue 0; cl_crosshairsize 3.8; cl_crosshairstyle 4; fps_max 60; fps_max-ui 60```
+```r_show_build_info 0;viewmodel_presetpos 0; viewmodel_offset_x 0.2; viewmodel_offset_y 2; viewmodel_offset_z -1; viewmodel_fov 68; cl_hud_color 0; cl_crosshairusealpha 1; cl_crosshaircolor 5; cl_crosshaircolor_b 255; cl_crosshaircolor_g 230; cl_crosshaircolor_r 50; cl_crosshairgap -1.05; cl_crosshairgap_useweaponvalue 0; cl_crosshairsize 3.8; cl_crosshairstyle 4; fps_max 60; fps_max_ui 60```
 
 ## Viewmodel Console Commands
 - ```viewmodel_presetpos 0``` - allows for custom viewmodel settings to work
@@ -27,4 +27,4 @@ CS2 commands/settings I use. Paste in in-game console to apply, might not work w
 
 # Other Console Commands
 - ```fps_max 60``` - Max FPS in-game
-- ```fps_max-ui 60``` - Max FPS on menus
+- ```fps_max_ui 60``` - Max FPS on menus
