@@ -8,6 +8,13 @@ CS2 commands/settings I use. Paste in in-game console to apply, might not work w
 ![Video Settings Image 2](video_settings_2.png)
 ![Video Settings Image 1](video_settings.png)
 
+## Game Settings
+![Video Settings Image 1](game_settings.png)
+![Video Settings Image 2](game_settings_2.png)
+![Video Settings Image 3](game_settings_3.png)
+![Video Settings Image 4](game_settings_4.png)
+![Video Settings Image 5](game_settings_5.png)
+![Video Settings Image 6](game_settings_6.png)
 
 ## Viewmodel Console Commands
 - ```viewmodel_presetpos 0``` - allows for custom viewmodel settings to work
