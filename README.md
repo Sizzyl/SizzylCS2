@@ -7,6 +7,8 @@ CS2 commands/settings I use. Paste in in-game console to apply, might not work w
 ## Video Settings
 ![Video Settings Image 2](https://github.com/Sizzyl/SizzylCS2/blob/main/video_settings_2.png)
 ![Video Settings Image 1](https://github.com/Sizzyl/SizzylCS2/blob/main/video_settings.png)
+![video_settings](https://github.com/user-attachments/assets/886e0a2f-6195-455c-86d1-f494fae1f852)
+
 
 ## Game Settings
 ![Video Settings Image 1](https://github.com/Sizzyl/SizzylCS2/blob/main/game_settings.png)
