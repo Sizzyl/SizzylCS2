@@ -6,7 +6,7 @@ CS2 commands/settings I use. Paste in in-game console to apply, might not work w
 
 ## Video Settings
 ![Video Settings Image 2](video_settings_2.png)
-![Video Settings Image 1](video_settins.png)
+![Video Settings Image 1](video_settings.png)
 
 ## Game Settings
 ![Video Settings Image 1](game_settings.png)
