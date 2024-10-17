@@ -5,16 +5,16 @@ CS2 commands/settings I use. Paste in in-game console to apply, might not work w
 ```r_show_build_info 0;viewmodel_presetpos 0; viewmodel_offset_x 0.2; viewmodel_offset_y 2; viewmodel_offset_z -1; viewmodel_fov 68; cl_hud_color 0; cl_crosshairusealpha 1; cl_crosshaircolor 5; cl_crosshaircolor_b 255; cl_crosshaircolor_g 230; cl_crosshaircolor_r 50; cl_crosshairgap -1.05; cl_crosshairgap_useweaponvalue 0; cl_crosshairsize 3.8; cl_crosshairstyle 4; cl_crosshairdot 0; cl_crosshair_drawoutline 1; cl_crosshair_friendly_warning 1; cl_crosshair_outlinethickness 0.5; safezonex 1;safezoney 0.92;fps_max 60; fps_max_ui 60; snd_mute_losefocus 0```
 
 ## Video Settings
-![Video Settings Image 2](video_settings_2.png)
-![Video Settings Image 1](video_settings.png)
+![Video Settings Image 2](https://github.com/Sizzyl/SizzylCS2/blob/master/video_settings_2.png)
+![Video Settings Image 1](https://github.com/Sizzyl/SizzylCS2/blob/master/video_settings.png)
 
 ## Game Settings
-![Video Settings Image 1](game_settings.png)
-![Video Settings Image 2](game_settings_2.png)
-![Video Settings Image 3](game_settings_3.png)
-![Video Settings Image 4](game_settings_4.png)
-![Video Settings Image 5](game_settings_5.png)
-![Video Settings Image 6](game_settings_6.png)
+![Video Settings Image 1](https://github.com/Sizzyl/SizzylCS2/blob/master/game_settings.png)
+![Video Settings Image 2](https://github.com/Sizzyl/SizzylCS2/blob/master/game_settings_2.png)
+![Video Settings Image 3](https://github.com/Sizzyl/SizzylCS2/blob/master/game_settings_3.png)
+![Video Settings Image 4](https://github.com/Sizzyl/SizzylCS2/blob/master/game_settings_4.png)
+![Video Settings Image 5](https://github.com/Sizzyl/SizzylCS2/blob/master/game_settings_5.png)
+![Video Settings Image 6](https://github.com/Sizzyl/SizzylCS2/blob/master/game_settings_6.png)
 
 ## Viewmodel Console Commands
 - ```viewmodel_presetpos 0``` - allows for custom viewmodel settings to work
